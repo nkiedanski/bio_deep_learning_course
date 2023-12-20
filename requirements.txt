@@ -1,6 +1,5 @@
-
-
-  - python=3.9
-  - scikit-learn=1.1.1
-  - tensorflow=2.9.2
-
+tensorflow==2.15.0
+tensorflow_probability==0.22.0
+cv2==4.8.0
+zip==file==2.15.0
+numpy==1.23.5
