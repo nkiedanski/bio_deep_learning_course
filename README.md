@@ -6,8 +6,10 @@ course: deep learning applied to bioactive compound design 2022 (msc bioinformat
 
 final assignment: convolutional neural network for cats & dogs classification
 
-language & frameworks & packages:
-- python
+languages:
+- python 3.9
+
+frameworks & packages:
 - tensorflow
 - keras
 - sklearn
