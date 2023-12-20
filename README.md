@@ -13,7 +13,8 @@ language & frameworks & packages:
 - sklearn
 - numpy
 
-images provided in zip file.
+images available in zip file, in below link:
+https://drive.google.com/drive/folders/1_24vYJ7iKT07_MOqr8xOExfIJn6QcpR1?usp=drive_link
 
 
 
